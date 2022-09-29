@@ -1,0 +1,23 @@
+let booksJson = `[
+    {
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "read": "true",
+        "genre": "Personal Finance",
+        "cover": "./images/book1.jpeg"
+    },
+    {
+        "title": "The 48 Laws Of Power",
+        "author": "Robert Greene" ,
+        "read": "true",
+        "genre": "Self-Help/Psychology",
+        "cover": "./images/book2.jpeg"
+    },
+    {
+        "title": "Elephants on Acid: And Other Bizarre Experiments",
+        "author": "Alex Boese",
+        "read": "false",
+        "genre": "Science",
+        "cover": "./images/book3.jpeg"
+    }
+]`

@@ -1,0 +1,82 @@
+let employeesJson = `[
+    {
+        "id": "01" ,
+        "first_name": "Rainer" ,
+        "last_name": "Ernst" ,
+        "email": "rainerernst@gmail.com" ,
+        "job_title": "Marketing Expert" ,
+        "salary": "35000"
+    },
+    {
+        "id": "02" ,
+        "first_name": "Axel" ,
+        "last_name": "Schweiß" ,
+        "email": "axelschweiss@gmail.com" ,
+        "job_title": "Perfume Blender" ,
+        "salary": "55000"
+    },
+    {
+        "id": "03" ,
+        "first_name": "Polly" ,
+        "last_name": "Zist" ,
+        "email": "pollyzist@gmail.com" ,
+        "job_title": "Security" ,
+        "salary": "40000"
+    },
+    {
+        "id": "04" ,
+        "first_name": "Sham" ,
+        "last_name": "Paine" ,
+        "email": "shampaine@gmail.com" ,
+        "job_title": "HR Supervisor" ,
+        "salary": "75000"
+    },
+    {
+        "id": "05" ,
+        "first_name": "Tscherno" ,
+        "last_name": "Bill" ,
+        "email": "tschernobill@gmail.com" ,
+        "job_title": "Energy Management" ,
+        "salary": "72500"
+    },
+    {
+        "id": "06" ,
+        "first_name": "Rob" ,
+        "last_name": "Otter" ,
+        "email": "robotter@gmail.com" ,
+        "job_title": "Recruiting" ,
+        "salary": "75000"
+    },
+    {
+        "id": "07" ,
+        "first_name": "Ed" ,
+        "last_name": "Ding" ,
+        "email": "ed_ding@gmail.com" ,
+        "job_title": "Supervisor" ,
+        "salary": "65000"
+    },
+    {
+        "id": "08" ,
+        "first_name": "Rosa" ,
+        "last_name": "Roth" ,
+        "email": "rosaroth@gmail.com" ,
+        "job_title": "Design Supervisor" ,
+        "salary": "80000"
+    },
+    {
+        "id": "09" ,
+        "first_name": "Sunny" ,
+        "last_name": "Täter" ,
+        "email": "sunnytaeter@gmail.com" ,
+        "job_title": "Security Supervisor" ,
+        "salary": "55000"
+    },
+    {
+        "id": "10" ,
+        "first_name": "Roman" ,
+        "last_name": "Tisch" ,
+        "email": "roman_tisch@gmail.com" ,
+        "job_title": "Customer Relations" ,
+        "salary": "55000"
+    }
+]`;

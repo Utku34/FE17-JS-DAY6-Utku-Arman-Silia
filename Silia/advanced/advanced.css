@@ -1,0 +1,40 @@
+.flex {
+    display: flex;
+    justify-content: space-around
+}
+
+.card {
+    width: 25%;
+    height: 650px;
+    /* border: 1px solid red; */
+    border-radius: 30px;
+    position: relative;
+    background-color: hsla(214, 22%, 70%, 0.81)
+}
+
+.image {
+    height: 400px;
+    margin-top: 1rem;
+    object-fit: contain;
+    border-radius: 30px;
+}
+
+.title {
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+}
+
+.author {
+    text-align: center;
+    position: relative;
+    top: -30px;
+}
+
+.button {
+    position: relative;
+    left: 37%;
+    top: -20px;
+    padding: 10px 30px;
+    border-radius: 20px;
+}

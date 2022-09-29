@@ -1,0 +1,18 @@
+var books = `[{
+"title": "Aladin",
+"author": "Don Ferguson",
+"read": false,
+"img": "aladin.jpg"
+}, 
+{
+"title": "Alice in Wonderland",
+"author": "Lewis Carroll",
+"read": true,
+"img": "alice.jpg"
+}, 
+{
+"title": "Faust",
+"author": "Goethe",
+"read": false,
+"img": "faust.jpg"    
+}]`
